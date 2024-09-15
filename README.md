@@ -2,6 +2,12 @@
 
 Easily rename PS2 game file names and prefix them with the correct game codes for OPL Manager to interpret.
 
+I made this script for a friend who has the need for this exact functionality. The repo includes an executable version of the script for his convenience. If you dont want to trust a random exe which is smart then just clone the repo and run the python script yourself.
+
+
+### EXE Version
+This repo includes an exe version of the script that you can use if you don't want to install python.
+
 ### Prerequisites
 
 * Python 3.12.3 or higher
